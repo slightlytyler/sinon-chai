@@ -1,5 +1,5 @@
 {
-  "name": "sinon-chai",
+  "name": "@slightlytyler/sinon-chai",
   "description": "Extends Chai with assertions for the Sinon.JS mocking framework.",
   "keywords": [
     "chai",
@@ -13,8 +13,17 @@
     "stubs",
     "mocks"
   ],
-  "version": "2.8.0",
-  "author": "Domenic Denicola <d@domenic.me> (https://domenic.me/)",
+  "version": "2.8.1",
+  "contributors": [
+    {
+      "name": "Domenic Denicola",
+      "email": "d@domenic.me"
+    },
+    {
+      "name": "Tyler Martinez",
+      "email": "tmartine@us.ibm.com"
+    }
+  ],
   "license": "(BSD-2-Clause OR WTFPL)",
   "repository": "domenic/sinon-chai",
   "main": "./lib/sinon-chai.js",
